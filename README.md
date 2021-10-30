@@ -1,5 +1,5 @@
 # student-grade-analytics
-Analyse academic and non-academic records of students and predict grades
+Analyse academic and non-academic records of students and apply predictive analytics to predict grades of students
 
 ### Installation Guide
 
